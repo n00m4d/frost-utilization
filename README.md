@@ -1,6 +1,6 @@
 # FROST Library CLI Example
 
-This CLI demonstrates how threshold multisig can be implemented using the frost_dalek crate.
+This CLI demonstrates how threshold multisig can be implemented using the [frost_dalek](https://docs.rs/frost-dalek/latest/frost_dalek/) crate.
 
 It includes two commands: create-multisig and sign.
 
